@@ -1,0 +1,2 @@
+# krisschool
+theme for wp
